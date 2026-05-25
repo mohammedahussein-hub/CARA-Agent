@@ -1,0 +1,16 @@
+{
+  "total_requirements": 19,
+  "FR": 15,
+  "NFR": 4,
+  "nfr_percentage": 21.1,
+  "arabic_test": {
+    "total": 8,
+    "FR": 2,
+    "NFR": 6,
+    "nfr_percentage": 75.0
+  },
+  "controlled_test": {
+    "total": 6,
+    "accuracy": 83.33
+  }
+}
